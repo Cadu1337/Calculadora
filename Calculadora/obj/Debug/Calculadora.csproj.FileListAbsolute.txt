@@ -37,3 +37,6 @@ C:\Users\Carlos\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.csprojReso
 C:\Users\Carlos\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
 C:\Users\Carlos\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
 C:\Users\Carlos\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.Cache
+C:\Users\Carlos\Desktop\Upados no Git\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\Carlos\Desktop\Upados no Git\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\Carlos\Desktop\Upados no Git\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
