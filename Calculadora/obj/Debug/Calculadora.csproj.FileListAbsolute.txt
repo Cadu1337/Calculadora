@@ -40,3 +40,6 @@ C:\Users\Carlos\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.Gen
 C:\Users\Carlos\Desktop\Upados no Git\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
 C:\Users\Carlos\Desktop\Upados no Git\Calculadora\Calculadora\obj\Debug\Calculadora.exe
 C:\Users\Carlos\Desktop\Upados no Git\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\carlos.ribeiro\Desktop\GitHub\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\carlos.ribeiro\Desktop\GitHub\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\carlos.ribeiro\Desktop\GitHub\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
